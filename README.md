@@ -2,7 +2,6 @@
 
 A real-time chat application built from scratch using **React**, **Node.js**, **Express**, **Socket.IO**, and **MongoDB**. It supports user authentication, live one-on-one messaging, image sharing, online presence tracking, and seen/unseen message indicators.
 
-🔗 **Live Demo:** [https://chat-app-theta-lilac.vercel.app/](https://chat-app-theta-lilac.vercel.app/)
 
 ---
 
@@ -35,8 +34,6 @@ A real-time chat application built from scratch using **React**, **Node.js**, **
 ### 📁 Backend
 
 ```bash
-git clone https://github.com/ManozBachhav/Chat-App.git
-cd Chat-App/backend
 
 # Install dependencies
 npm install
@@ -97,14 +94,6 @@ frontend/
 ---
 
 ## 🌟 Live Demo
-
-Try it out here:
-👉 **[chat-app-theta-lilac.vercel.app](https://chat-app-theta-lilac.vercel.app/)**
-
-> Note: Use two browser tabs or devices to test real-time functionality.
-> Refresh the page if any of fuction not working and wait for seconds.
-> Its take little time for uploading an image as it connected to cloudinary.
-
 ---
 
 ## 🔮 Future Enhancements
@@ -117,11 +106,3 @@ Try it out here:
 * ✅ File upload (PDF, docs, etc.)
 
 ---
-
-## 🤝 Author
-
-Built with ❤️ by [**Manoz Bachhav**](https://github.com/ManozBachhav)
-📬 \[email : manojbachhav281@gmail.com]
-
----
-
